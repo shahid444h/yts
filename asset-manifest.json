@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yts/static/css/main.1c141381.css",
+    "main.js": "/yts/static/js/main.ffdeade2.js",
+    "static/js/787.81dc7098.chunk.js": "/yts/static/js/787.81dc7098.chunk.js",
+    "static/media/logo.svg": "/yts/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yts/index.html",
+    "main.1c141381.css.map": "/yts/static/css/main.1c141381.css.map",
+    "main.ffdeade2.js.map": "/yts/static/js/main.ffdeade2.js.map",
+    "787.81dc7098.chunk.js.map": "/yts/static/js/787.81dc7098.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c141381.css",
+    "static/js/main.ffdeade2.js"
+  ]
+}
